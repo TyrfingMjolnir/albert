@@ -13,9 +13,9 @@ Issues independant of versioning:
 
     Make qsett8ng standaer dponstrucable
 
-Goal:  Port to way more flexible qml
+Goal:  Port to e19
 
-    Check the QtQuick standard project
+    Check EFL
 
 Goal:  Final hotkey refinement (xcb)
 
@@ -52,6 +52,7 @@ GOAL
     [WebSearch]  Rewrite module to extension
     [WebSearch]  Fix library resource bug (unique names!)
     [ChromeBookmarks]  Rewrite module to extension
+    [FireFoxBookmarks]  Rewrite module to extension
 
 
     [Core] Pluignblacklist in plugin area (config)
